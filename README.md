@@ -23,4 +23,4 @@ This module requires the following modules:
 comming soon...
 ------------
 
-*.exe is comming soon
+* .exe is comming soon
